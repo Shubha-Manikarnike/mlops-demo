@@ -1,0 +1,1 @@
+conda create --name mlops python mlflow jupyter pandas matplotlib requests -c conda-forge

@@ -1,0 +1,36 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.13",
+    "heartbeatAt": "2023-01-27T05:25:32.640679",
+    "startedAt": "2023-01-27T05:25:31.729650",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "mlops webinar - 28th Jan/EDA/Untitled.ipynb",
+    "root": "C:\\Users\\ShubhaManikarnike",
+    "host": "WDSCBELT229",
+    "username": "ShubhaManikarnike",
+    "executable": "C:\\Users\\ShubhaManikarnike\\anaconda3\\python.exe",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 1190.0,
+        "min": 0.0,
+        "max": 1190.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1190.0,
+            "min": 0.0,
+            "max": 1190.0
+        }
+    ],
+    "disk": {
+        "total": 390.01663970947266,
+        "used": 183.53565979003906
+    },
+    "memory": {
+        "total": 11.786911010742188
+    }
+}
